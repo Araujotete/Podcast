@@ -1,4 +1,4 @@
-#Podcast sobre implantação do neurochip da Neuralink
+Podcast sobre implantação do neurochip da Neuralink
 
 ## 📒 Descrição
 Este podcast de 5 min incorpora uma breve explicação sobre o que é o chip cerebral da Neuralink, algumas polêmicas geradas após o primeiro implante, impacto das divulgações do neuro chip, e um pouco mais.
